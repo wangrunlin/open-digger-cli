@@ -1,6 +1,6 @@
 {
   "name": "open-digger-cli",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Open Digger Cli",
   "bin": {
     "opendigger": "./dist/src/index.js"
