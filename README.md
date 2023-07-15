@@ -1,4 +1,4 @@
-# OepnDigger CLI
+# OpenDigger CLI
 
 A CLI tool based on [OpenDigger][1]
 
