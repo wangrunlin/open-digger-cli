@@ -4,6 +4,8 @@ A CLI tool based on [OpenDigger][1]
 
 [![NPM](https://nodei.co/npm/open-digger-cli.png?downloads=true&downloadRank=true&stars=true)][2]
 
+[![asciicast](https://asciinema.org/a/o2Qtj2eQWJ9bwfBqtq06dxbLJ.svg)][3]
+
 ## Usage
 
 ### Download
@@ -32,3 +34,5 @@ opendigger --help
 
 [1]: https://github.com/X-lab2017/open-digger/
 [2]: https://nodei.co/npm/open-digger-cli/
+[3]: https://asciinema.org/a/o2Qtj2eQWJ9bwfBqtq06dxbLJ
+
