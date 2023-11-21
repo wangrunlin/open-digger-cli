@@ -4,6 +4,8 @@ A CLI tool based on [OpenDigger][1]
 
 [![NPM](https://nodei.co/npm/open-digger-cli.png?downloads=true&downloadRank=true&stars=true)][2]
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/wangrunlin/open-digger-cli)
+
 [![asciicast](https://asciinema.org/a/o2Qtj2eQWJ9bwfBqtq06dxbLJ.svg)][3]
 
 ## Usage
